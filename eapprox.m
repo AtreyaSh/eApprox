@@ -28,8 +28,8 @@ xlim([0 n(i)]);
 hold on;
 plot(0:n(i)/100:n(i),e^1,"r", 'linewidth', 0.2);
 xlabel("N");
-ylabel(['{mean[g(N)]}' sprintf('\n')]);
-legend('mean[g(N)]', 'e','location', 'northeastoutside')
+ylabel(['{mean[f(1:N)]}' sprintf('\n')]);
+legend('mean[f(1:N)]', 'e','location', 'northeastoutside')
 title("Monte-Carlo approximation of e")
 print(h, "-dpng", strcat(pwd, "/results/eApprox_", num2str(n(i)), ".png")) 
 disp(g(n(i)));
