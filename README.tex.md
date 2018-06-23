@@ -57,3 +57,5 @@ To visualize this convergence, we will plot the mean of `N` occurences of the se
 ### N = 100000
 
 <img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_100000.png" width="500">
+
+And we can see a nice convergence in these figures. Math is beautiful!
