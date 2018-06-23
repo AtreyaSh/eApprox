@@ -18,7 +18,7 @@ end
 n = log10(N);
 n = [1:n];
 for i = 1:length(n)
-n(i) = 10^(n(i))
+n(i) = 10^(n(i));
 end
 
 for i=1:length(n)
@@ -31,6 +31,6 @@ xlabel("N");
 ylabel(['{mean[g(N)]}' sprintf('\n')]);
 legend('mean[g(N)]', 'e','location', 'northeastoutside')
 title("Monte-Carlo approximation of e")
-print(h, "-dpng", strcat("eApprox_", num2str(n(i)), ".png")) 
+print(h, "-dpng", strcat(pwd, "/results/eApprox_", num2str(n(i)), ".png")) 
 disp(g(n(i)));
 end
