@@ -5,7 +5,7 @@ f = 0;
 g = 0;
 
 for i=1:N
-  while s <= 1
+  while s < 1
    s = s + rand;
    k = k + 1;
   end
