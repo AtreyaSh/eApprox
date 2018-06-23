@@ -4,7 +4,7 @@
 
 <img src="/tex/c6f620e858015e067b8e65a21a2a1db9.svg?invert_in_darkmode&sanitize=true" align=middle width=67.01483084999998pt height=21.18721440000001pt/> is a famous constant in Mathematics. It appears elegently in many applications, from calculus to complex numbers and statistics. The traditional means of generating this constant is by taking the limit of the following iterative sequence:
 
-<p align="center"><img src="/tex/8cbffcd86b74bb593966e04ec07ffe29.svg?invert_in_darkmode&sanitize=true" align=middle width=126.94183589999999pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/tex/5777fccd3ba23e5f6abe6f19f8d368ef.svg?invert_in_darkmode&sanitize=true" align=middle width=126.94183589999999pt height=32.990165999999995pt/></p>
 
 There is a large volume of mathematical research in Monte-Carlo methods; which essentially solve mathematical/computational problems by using stochastic or random processes. Useful information can be found here: https://en.wikipedia.org/wiki/Monte_Carlo_method
 
