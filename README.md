@@ -2,7 +2,7 @@
 
 ## Background
 
-<img src="/tex/c6f620e858015e067b8e65a21a2a1db9.svg?invert_in_darkmode&sanitize=true" align=middle width=67.01483084999998pt height=21.18721440000001pt/> is a famous constant in Mathematics. It appears elegently in many applications, from calculus to complex numbers and statistics. The traditional means of generating this constant is by taking the limit of the following iterative sequence:
+<img src="/tex/cff3a2a99ab341058b9c83f05254a28e.svg?invert_in_darkmode&sanitize=true" align=middle width=67.01483084999998pt height=21.18721440000001pt/> is a famous constant in Mathematics. It appears elegently in many applications, from calculus to complex numbers and statistics. The traditional means of generating this constant is by taking the limit of the following iterative sequence:
 
 <p align="center"><img src="/tex/5777fccd3ba23e5f6abe6f19f8d368ef.svg?invert_in_darkmode&sanitize=true" align=middle width=126.94183589999999pt height=32.990165999999995pt/></p>
 
