@@ -40,12 +40,20 @@ To visualize this convergence, we will plot the mean of `N` occurences of the se
 
 ### N = 10
 
-<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_10.png" width="800">
+<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_10.png" width="500">
 
 ### N = 100
 
+<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_100.png" width="500">
+
 ### N = 1000
+
+<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_1000.png" width="500">
 
 ### N = 10000
 
+<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_10000.png" width="500">
+
 ### N = 100000
+
+<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_100000.png" width="500">
