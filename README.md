@@ -14,7 +14,7 @@ As interesting as <img src="/tex/8cd34385ed61aca950a6b06d09fb50ac.svg?invert_in_
 
 https://stats.stackexchange.com/questions/193990/approximate-e-using-monte-carlo-simulation
 
-Numberphile made an interesting [video](https://www.youtube.com/watch?v=ur-iLy4z3QE) on Monte-Carlo methods to generate Apery's constant, which was a great motivation for this project.
+Numberphile made an interesting [video](https://www.youtube.com/watch?v=ur-iLy4z3QE) on Monte-Carlo methods to generate Apéry's constant, which was a great motivation for this project.
 
 ## Algorithm
 
