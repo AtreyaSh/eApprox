@@ -4,7 +4,7 @@
 
 <img src="/tex/ea58f7c7e035f339572ca09476e61916.svg?invert_in_darkmode&sanitize=true" align=middle width=67.01483084999998pt height=21.18721440000001pt/> is a famous constant in Mathematics. It appears elegently in many applications, from calculus to complex numbers and statistics. The traditional means of generating this constant is by taking the limit of the following iterative sequence:
 
-<p align="center"><img src="/tex/83781f2727a3bb185fb157dc3807e483.svg?invert_in_darkmode&sanitize=true" align=middle width=126.94183589999999pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/tex/f559faf58b3264d0425e3f93b63dee1c.svg?invert_in_darkmode&sanitize=true" align=middle width=131.96463884999997pt height=32.990165999999995pt/></p>
 
 There is a large volume of mathematical research in Monte-Carlo methods; which essentially solve mathematical/computational problems by using stochastic or random processes. Useful information can be found here: 
 
@@ -14,7 +14,7 @@ As interesting as <img src="/tex/8cd34385ed61aca950a6b06d09fb50ac.svg?invert_in_
 
 https://stats.stackexchange.com/questions/193990/approximate-e-using-monte-carlo-simulation
 
-Numberphile made an interesting [video](https://www.youtube.com/watch?v=ur-iLy4z3QE) on Monte-Carlo methods to generate Apéry's constant, which was a great motivation for this project.
+Numberphile made an interesting [video](https://www.youtube.com/watch?v=ur-iLy4z3QE) on Monte-Carlo methods to generate Apery's constant, which was a great motivation for this project.
 
 ## Algorithm
 
