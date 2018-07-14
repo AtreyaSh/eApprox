@@ -48,7 +48,7 @@ Now we visualize images with higher `N` values.
 
 <img src ="/tmp/eApprox_10000.png" width="500">
 
-### N = 1000,000
+### N = 100,000
 
 <img src ="/tmp/eApprox_100000.png" width="500">
 
