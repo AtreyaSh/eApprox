@@ -36,26 +36,8 @@ The algorithm can be described as follows:
 
 ## Results
 
-To visualize this convergence, we will plot the mean of `N` occurences of the sessions produced. We will vary N from 1 up until 100,000. The blue line represents the mean of `N` occurences of the sessions produced. The red line represents the value of <img src="/tex/8cd34385ed61aca950a6b06d09fb50ac.svg?invert_in_darkmode&sanitize=true" align=middle width=7.654137149999991pt height=14.15524440000002pt/>. 
+To visualize this convergence, we will plot the mean of `N` occurences of the sessions produced. We will vary N from 1 up until 1,000. The blue line represents the mean of `N` occurences of the sessions produced. The red line represents the value of <img src="/tex/8cd34385ed61aca950a6b06d09fb50ac.svg?invert_in_darkmode&sanitize=true" align=middle width=7.654137149999991pt height=14.15524440000002pt/>. Enjoy the gif!
 
-### N = 10
-
-<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_10.png" width="500">
-
-### N = 100
-
-<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_100.png" width="500">
-
-### N = 1,000
-
-<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_1000.png" width="500">
-
-### N = 10,000
-
-<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_10000.png" width="500">
-
-### N = 100,000
-
-<img src = "https://github.com/AtreyaSh/eApprox/blob/master/results/eApprox_100000.png" width="500">
+<img src ="/gif/eApprox.gif" width="500">
 
 And we can see a nice convergence in these figures. Math is beautiful!
