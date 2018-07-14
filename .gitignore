@@ -1,2 +1,5 @@
 # octave-workspaces
 octave-workspace
+
+# python
+*.pyc
