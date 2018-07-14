@@ -21,9 +21,9 @@ for i=1:N
     h = figure('visible','off');
     plot(g(1:i), 'linewidth', 1);
     xlim([0 N]);
-    ylim([2 3]);
+    ylim([2.6 3.6]);
     hold on;
-    plot(0:N,e^1,"r", 'linewidth', 0.2);
+    plot(0:breaks:N,e^1,"r", 'linewidth', 0.2);
     xlabel("N");
     ylabel(['{mean[f(1:N)]}' sprintf('\n')]);
     legend('mean[f(1:N)]', 'e','location', 'northeastoutside')
