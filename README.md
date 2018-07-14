@@ -36,7 +36,7 @@ The algorithm can be described as follows:
 
 ## Results
 
-To visualize this convergence, we will plot the mean of `N` occurences of the sessions produced. We will vary N from 1 up until 1,000. The blue line represents the mean of `N` occurences of the sessions produced. The red line represents the value of <img src="/tex/8cd34385ed61aca950a6b06d09fb50ac.svg?invert_in_darkmode&sanitize=true" align=middle width=7.654137149999991pt height=14.15524440000002pt/>.
+To visualize this convergence, we will plot the mean of `N` occurences of the sessions produced. The blue line represents the mean of `N` occurences of the sessions produced. The red line represents the value of <img src="/tex/8cd34385ed61aca950a6b06d09fb50ac.svg?invert_in_darkmode&sanitize=true" align=middle width=7.654137149999991pt height=14.15524440000002pt/>.
 
 ### Animation up to N = 1,000
 
