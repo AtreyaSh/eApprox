@@ -44,10 +44,10 @@ For higher `N` values, we can see clear convergence.
 
 ### N = 10,000
 
-<img src ="/results/eApprox_10000.png" width="500">
+<img src ="/tmp/eApprox_10000.png" width="500">
 
 ### N = 1000,000
 
-<img src ="/results/eApprox_100000.png" width="500">
+<img src ="/tmp/eApprox_100000.png" width="500">
 
 And we can see a nice convergence in these figures. Math is beautiful!
